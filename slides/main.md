@@ -269,6 +269,5 @@ O relevante para esse mini-curso é um tipo específico de **merge**, o **rebase
 ![bg fit](./img/add-user.svg)
 
 ---
-Deixa deix
 
 
