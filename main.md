@@ -285,7 +285,7 @@ O relevante para esse mini-curso é um tipo específico de **merge**, o **rebase
 ## Dêem login no GitHub pelo Terminal
 
 1. Execute no terminal:
-`gh repo login`
+`gh auth login`
 2. Responda o seguinte:
 ![](./img/gh-cli.png)
 
