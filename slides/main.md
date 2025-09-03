@@ -544,7 +544,7 @@ Vale tudo, até ChatGPT. Só não vale pedir o código de mão beijada para a IA
 
 Lógico que vale conversarem sobre quem vai fazer o quê!
 
-Me peçam ajuda se tiverem sem ideias ou parede sem saída, porém tentem ir ao máximo sozinhos!
+Me peçam ajuda se tiverem sem ideias ou esbarraram em uma parede sem saída, porém tentem ir ao máximo sozinhos!
 
 ---
 
@@ -557,9 +557,20 @@ Para criar uma branch nova, basta executar `git switch -c <nome da branch>`, e u
 
 ---
 <!-- Momento descanso gais -->
+<!-- Pular slide se o tempo estiver acabando -->
 <!-- Esse é o último slide, não passa direto -->
 <!-- _class: 'title invert lead' -->
-# 5.2 Exercício com Branches!
+# 5.3 Exercício com Branches!
+Implemente as seguintes telas:
+1. Cadastro de Usuário com nome e senha
+2. Tela de Login com nome e senha
+3. Tela de Perfil do usuário
+
+Cada um pode fazer uma tela, ou trabalharem juntos caoticamente, mas cada um deve ter a sua branch e commitar uma parte relevante do código!
+
+Vocês não precisam implementar um banco de dados SQL se não quiserem. Basta usar o `request.context` ou `request.g` com um dicionário!
+
+No final, vamos merjar essas branches na master usando Pull Requests.
 
 ---
 
